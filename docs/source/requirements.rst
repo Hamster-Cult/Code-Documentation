@@ -2,25 +2,30 @@ Requirements
 =============
 
 1. Mood Tracking and Calendar Integration
+-----------------------------------------
 Users can create, read, update, and delete mood entries in the calendar.
 Users can rate their days on a scale of 1-5 (1 = bad, 5 = very good).
 Users can import existing calendars or export their calendar to other platforms.
 
 2. Garden and Sapling Management
+--------------------------------
 Users can view a Garden containing all grown saplings with their graphics and goals.
 Users can select, grow, and manage saplings, tracking their EXP progress.
 Users can set goals to achieve during the sapling's growth period.
 Users can level up their account, unlocking new plants as they progress.
 
 3. User Interaction and Customization
+-------------------------------------
 Users can customize their profile and the UI easily.
 Users can add other users as friends or follow them.
 Users can create an optional to-do list.
 
 4. Notifications and Tutorials
+------------------------------
 Users can choose to receive notifications at a chosen frequency.
 Users are guided through a tutorial by the mascot.
 
 5. Mascot Interaction and Summary
+---------------------------------
 Users can see the mascot interact with plants in the Garden (e.g., watering or attacking them).
 Users receive a pattern summary from the system over the course of the week.
