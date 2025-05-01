@@ -5,30 +5,13 @@ Usage
 
 Installation
 ------------
+1. Make sure dart SDK is installed
+2. Also install flutter SDK  is installed
+3. Download the system here and run it
 
-To use Lumache, first install it using pip:
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+setting up and Running the project
+----------------------------------
+1. Go on to Github and locate the repository
+2. Now navigate where the cloned repository is located - this can be done using Git Bash
+3. Install any libraries/packages that are neccessary ( done with npm install)
