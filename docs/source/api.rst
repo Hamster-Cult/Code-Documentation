@@ -13,7 +13,7 @@ Firebase is a back-end-as-a-service (BaaS) platform that includes tools for deve
 
 For installation:
 -----------------
-pip install pyrebase4
+``pip install pyrebase4``
 
 Uvicorn
 =======
@@ -22,7 +22,7 @@ Uvicorn is a Python ASGI (Asynchronous Server Gateway Interface) server with exc
 
 For installation:
 -----------------
-pip install uvicorn
+``pip install uvicorn``
 
 Postgres
 ========
