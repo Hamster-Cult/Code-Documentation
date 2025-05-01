@@ -1,3 +1,4 @@
+===
 API
 ===
 
@@ -10,18 +11,18 @@ API
 
 
 Psycopg
---------
+=======
 
 PostgreSQL adapter used in Python. Used to help establish a database connection.
 
 For installation:
 -----------------
-pip install psycopg2  
+..pip install psycopg2  
 
 sqlmodel 
----------
+========
 A library used to interact with SQL databases.  Based on SQLAlchemy and Pedantic, as a foundation.
 
 For installation:
 -----------------
-pip install sqlmodel  
+..pip install sqlmodel  
