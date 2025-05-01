@@ -5,16 +5,45 @@ Usage
 
 Installation
 ------------
-1. Make sure dart SDK is installed
-2. Also install flutter SDK  is installed
-3. Download the system here and run it
+Install Flutter SDK: Download and install the Flutter SDK from the official Flutter website. Or use the following command in command line or PowerShell. 
 
+choco install flutter
 
-setting up and Running the project
+Set Up Android Studio: Install Android Studio and set up an Android emulator for testing.
+
+choco install androidstudio
+
+Dart is included with the Flutter SDK, so no separate installation is needed.
+
+Verify Installation: Run flutter doctor in your terminal to ensure that both Flutter and Dart are correctly installed and that Android Studio is properly configured.
+
+flutter doctor -v
+
+Setting up and Running the project
 ----------------------------------
-1. Go on to Github and locate the repository
-2. Now navigate where the cloned repository is located - this can be done using Git Bash
-3. Install any libraries/packages that are neccessary ( done with npm install)
+Clone the Repository: Clone the project repository to your local machine either manually or you can use git clone command in your local terminal.
 
-Packages needed to install:
-firebase, uvicorn, postgres, pyscopg and sqlmodel
+git clone https://github.com/Hamster-Cult/Whisker-Garden.git
+
+Set up fastAPI
+Download psycopg2 library using
+pip install psycopg2
+
+Download SQLModels library using
+
+pip install sqlmodel
+
+Download PostgresSQL from the official site or use
+choco install postgresql
+
+Install Firebase from the official site and Uvicorn.
+
+Running the project
+-------------------
+1. Clone the repository. 
+2. Download Flutter packages using:
+flutter pub get
+
+3. Run your PSQL server.
+4. Run fastAPI run app.pyin the command line
+5. Run ‘flutter run -d emulator’
