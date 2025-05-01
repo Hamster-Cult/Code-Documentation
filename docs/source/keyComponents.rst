@@ -6,6 +6,8 @@ Mood Logging:
 -------------
 The Mood Logging feature provides the user to be able to log an daily entry of how they are feeling and their current mood. By using this feature, it will help to boost plant EXP.
 
+Each day the user will be asked to rate their mood by selecting an appropriate visual icon that represents their emotion.
+
 By clicking on the "Write today's entry", the user is able to write a description of their current mood. This will then be logged and saved. After this the user is able to go back and look at any past entrys.
 
 Can show past trends, wether mood has improved or not overtime.
@@ -21,6 +23,8 @@ Additional features also include customisation of the calendar, such as the colo
 Plant System:
 -------------
 User is able to choose a plant upon joining the app, but also not restricted in resetting and or changing the plant. EXP will be giving the more the plant grows, however, if reset it will also reset the EXP given.
+
+EXP is given by completing activities and logging moods will “nurture” the plant, allowing it to develop over time. Neglecting tasks or engaging in inconsistent behaviour may lead to the plant showing poor signs of health, encouraging users to stay on track.
 
 Once EXP max level is reached the plant will be put on a window shelf in home page and another plant can be chosen to start the process again.
 
