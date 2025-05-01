@@ -15,11 +15,11 @@ Explore homepage and log a Mood Entry
 
 Garden and Sapling Management
 --------------------------------
-  -Users can view a Garden containing all grown saplings with their graphics and goals.
-  -Users can select, grow, and manage saplings, tracking their EXP progress.
-  -Users can set goals to achieve during the sapling's growth period.
-  -Users can level up their account, unlocking new plants as they progress.
-  -Reminder of logging a Mood Entry
+  - Users can view a Garden containing all grown saplings with their graphics and goals.
+  - Users can select, grow, and manage saplings, tracking their EXP progress.
+  - Users can set goals to achieve during the sapling's growth period.
+  - Users can level up their account, unlocking new plants as they progress.
+  - Reminder of logging a Mood Entry
   - Each user will recieve a notification to remind them to update their mood entry
   - Can be disabled if they do not want it
 
