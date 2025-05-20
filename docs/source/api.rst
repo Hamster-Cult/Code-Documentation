@@ -7,14 +7,6 @@ API
 
    lumache
 
-Firebase
-========
-Firebase is a back-end-as-a-service (BaaS) platform that includes tools for developing online and mobile applications. It offers services such as authentication, cloud storage and cloud functions.
-
-For installation:
------------------
-pip install pyrebase4
-
 Uvicorn
 =======
 
