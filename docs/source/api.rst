@@ -43,16 +43,33 @@ pip install sqlmodel
 
 You need to have python 3.10 and above installed
 
+
+
+
 python -m venv venv make a virtual enviroment
 venv\Scripts\activate activate the venv (the command is different for mac - but it should be right for windows)
 
+
+
+
+
 Install all the packages
+
+
+
 (These can be ran collectively as a batch)
+
+
+
+
 pip install fastapi
 pip install "fastapi[standard]" 
 pip install "uvicorn[standard]"
 pip install sqlmodel
 pip install psycopg2
+
+
+
 
 deactivate deactivate the venv for some reason it won't work until you restart the venv
 venv\Scripts\activate activate it again
