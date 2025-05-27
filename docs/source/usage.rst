@@ -42,8 +42,7 @@ Running the project
 -------------------
 1. Clone the repository. 
 2. Download Flutter packages using:
-flutter pub get
-
+       flutter pub get
 3. Run your PSQL server.
 4. Run fastAPI run app.pyin the command line
 5. Run ‘flutter run -d emulator’
