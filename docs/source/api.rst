@@ -62,10 +62,10 @@ Install all the packages
 
 
 
-pip install fastapi
-pip install "fastapi[standard]" 
-pip install "uvicorn[standard]"
-pip install sqlmodel
+pip install fastapi,
+pip install "fastapi[standard]",
+pip install "uvicorn[standard]",
+pip install sqlmodel,
 pip install psycopg2
 
 
