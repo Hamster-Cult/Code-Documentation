@@ -36,7 +36,7 @@ pip install sqlmodel
 Download PostgresSQL from the official site or use
 choco install postgresql
 
-Install Firebase from the official site and Uvicorn.
+Install Uvicorn from the official site.
 
 Running the project
 -------------------
